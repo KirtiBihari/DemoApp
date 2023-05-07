@@ -20,7 +20,7 @@
     "mdbreact": "^4.13.0",
     "clean-webpack-plugin": "^3.0.0",
     "eslint": "^5.16.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jshint": "^2.10.2",
     "lodash": "^4.17.13",
     "popper.js": "^1.15.0",
